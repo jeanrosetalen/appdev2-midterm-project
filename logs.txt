@@ -1,0 +1,11 @@
+** This File will store all the logs request that has happened inside server. **2025-04-22T13:39:37.041Z - GET /
+2025-04-22T13:39:37.185Z - GET /favicon.ico
+2025-04-22T13:40:39.087Z - GET /todos.json
+2025-04-22T13:40:50.520Z - GET /logs.txt
+2025-04-22T13:42:17.392Z - GET /logs.txt
+2025-04-22T13:42:19.067Z - GET /logs.txt
+2025-04-22T13:42:23.194Z - GET /logs.txt
+2025-04-22T13:46:49.448Z - GET /logs.txt/todos/1
+2025-04-22T13:46:56.223Z - GET /logs.txt/todos/2
+2025-04-22T13:47:28.577Z - GET /logs.txt/todos/POST
+2025-04-22T13:49:12.271Z - GET /todos
